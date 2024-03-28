@@ -1,7 +1,5 @@
 # SWEproject
 
 A new Flutter project.
-
-## Getting Started
-
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+You can find all the files for our Application TABLO.
+We used FlutterFlow and Firebase.
